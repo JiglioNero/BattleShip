@@ -1,0 +1,14 @@
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.AssemblyInfoInputs.cache
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.AssemblyInfo.cs
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.csproj.CoreCompileInputs.cache
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/bin/Debug/net6.0/BattleShip
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/bin/Debug/net6.0/BattleShip.deps.json
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/bin/Debug/net6.0/BattleShip.runtimeconfig.json
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/bin/Debug/net6.0/BattleShip.dll
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/bin/Debug/net6.0/BattleShip.pdb
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.dll
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/refint/BattleShip.dll
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.pdb
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/BattleShip.genruntimeconfig.cache
+/Users/mikhailsuendukov/Documents/vsProjects/BattleShip/BattleShip/obj/Debug/net6.0/ref/BattleShip.dll
